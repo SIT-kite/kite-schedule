@@ -35,7 +35,7 @@ flutter build apk
 
 ## 贡献者
 
-- [wanfenglalala123] (https://github.com/wanfenglalala123)
-- [sunnysab] (https://github.com/sunnysab)
+- [wanfenglalala123](https://github.com/wanfenglalala123)
+- [sunnysab](https://github.com/sunnysab)
 
 本项目创立及维护不限于上海应用技术大学易班工作站，欢迎志同道合的同学增加新的功能。
